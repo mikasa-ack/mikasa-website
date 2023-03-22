@@ -15,3 +15,10 @@ With surge.sh:
 ```
 
 Website is deployed here: https://mikasa-ack.surge.sh/
+
+## Build the site
+npm i
+npm start
+
+# Build
+npm run build

@@ -1,1 +1,1 @@
-surge --domain mikasa-ack.surge.sh dist
+surge --domain mikasa-hackathon.surge.sh dist
