@@ -43,7 +43,7 @@ class Header extends Component {
             </li>
 
             <li>
-              <a className="smoothscroll" href="#portfolio">
+              <a href="https://mikasa-hackathon-docs.surge.sh/" target="_blank">
                 Documentation
               </a>
             </li>
