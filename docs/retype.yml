@@ -5,7 +5,6 @@ url: https://mikasa-hackathon-docs.surge.sh/
 branding:
   logo: /static/retype-logo.svg
   logoDark: /static/retype-logo-dark.svg
-  label: v2.4
 
 meta:
   title: " - Generate, publish, and share documentation"
@@ -21,16 +20,13 @@ links:
     target: blank
 
   - text: Website
-    link: https://github.com/retypeapp/retype/discussions
+    link: https://mikasa-hackathon.surge.sh/
     icon: comment-discussion
     target: blank
 
 footer:
   copyright: © Copyright {{ year }} – Mikasa – All rights reserved
   links:
-    - text: About
-      link: about.md
-      icon: question
     - text: License
       link: license.md
       icon: shield-check

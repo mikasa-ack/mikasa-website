@@ -41,5 +41,5 @@ The docs site is currently deployed to: https://mikasa-hackathon-docs.surge.sh
 ## Generate the docs site
 
 ```bash
-npm run build
+retype build
 ```

@@ -17,7 +17,7 @@ url: https://example.com/docs/ # Can also include a protocol.
 
 poweredByRetype: true # Set to false to remove the Powered by Retype branding.
                       # A Retype Pro license is required.
-                      # See: https://retype.com/pro
+                      # See: https://starkware.co/pro
 
 # -----------------------------------------------------------------------------
 
@@ -157,7 +157,7 @@ server:
 # -----------------------------------------------------------------------------
 
 snippets:      # Custom code snippets configuration.
-               # See: https://retype.com/components/code-snippet
+               # See: https://starkware.co/components/code-snippet
   lineNumbers: # A list of language strings to enable line numbering on.
     - js
     - none     # Use `none` to disable line-numbering on snippets.
