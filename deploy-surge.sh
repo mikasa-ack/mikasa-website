@@ -1,0 +1,1 @@
+surge --domain mikasa-ack.surge.sh dist
